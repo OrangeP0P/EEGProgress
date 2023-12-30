@@ -23,7 +23,7 @@ Before running the application, ensure that you have the following prerequisites
 2. **PyTorch:** This project requires PyTorch. If you haven't installed PyTorch yet, you can find installation instructions on the [official PyTorch website](https://pytorch.org/get-started/locally/).
 
 
-## Running main.py
+## Running 1-AB.py
 
 Once you have the environment set up, you can run `1-AB.py` by following these steps:
 
