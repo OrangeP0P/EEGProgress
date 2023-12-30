@@ -29,7 +29,7 @@ Once you have the environment set up, you can run `1-AB.py` by following these s
 
 1. Open your command line interface (CLI).
 
-2. Navigate to the directory where `main.py` is located.
+2. Navigate to the directory where `1-AB.py` is located.
 
 3. Select the network. You can select the correspoding testing model such as 'EEGProgress' with the setting in '1-AB.py':
 
