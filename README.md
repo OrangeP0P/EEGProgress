@@ -1,4 +1,4 @@
-# :balloon: 1. Introduction of "EEGProgress"
+# 📌: 1. EEGProgress
 
 Overview: A fast and lightweight progressive convolutoin architecture for EEG processing and classification. 
 
@@ -6,7 +6,7 @@ This project is based on our recent publication. You can access the original pap
 
 ![Alt text](ReadMe/EEGProgress.png)
 
-# How to run
+# 2. How to run
 
 You can directly run the code with “1-AB.py”
 
