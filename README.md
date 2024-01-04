@@ -8,11 +8,11 @@
 
 🍊 In this study, a progressive convolution CNN architecture named __"EEGProgress"__ is proposed, aiming to efficiently extract the topological spatial information of EEG signals from multi-scale levels (electrode, brain region, hemisphere, global) with superior speed.
 
-## 🧰 How to run
+## How to run
 
 🍊 You can directly run the code with __“1-AB.py”__.
 
-### 📕 Prerequisites
+### Prerequisites
 
 🍊 Before running the application, ensure that you have the following prerequisites installed:
 
@@ -21,7 +21,7 @@
       2. **PyTorch:** This project requires PyTorch. If you haven't installed PyTorch yet, you can find installation instructions on the [official PyTorch website](https://pytorch.org/get-started/locally/).
 
 
-### 📕 Settings
+### Settings
 
 🍊 Once you have the environment set up, you can run __"1-AB.py"__ with customized settings:
 
