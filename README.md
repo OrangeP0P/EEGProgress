@@ -19,22 +19,18 @@ Before running the application, ensure that you have the following prerequisites
 2. **PyTorch:** This project requires PyTorch. If you haven't installed PyTorch yet, you can find installation instructions on the [official PyTorch website](https://pytorch.org/get-started/locally/).
 
 
-## Running 1-AB.py
+## Settings
 
-Once you have the environment set up, you can run `1-AB.py` by following these steps:
+Once you have the environment set up, you can run `1-AB.py` with customized settings:
 
-1. Open your command line interface (CLI).
-
-2. Navigate to the directory where `1-AB.py` is located.
-
-3. Select the network. You can select the correspoding testing model such as 'EEGProgress' with the setting in '1-AB.py':
+1. You can select the "Raw/Permutated EEG Data" with the code:
 
    ```bash
-    Net_number = 'EEGProgress' # Choose EEGProgress model
-    ```
-   
-5. Run the script with the command:
+   Current_Datasets = 'a19_SpPe/'  # Permutated data
+   Current_Datasets = 'a20_SpRaw/'  # Raw data
+   ```
 
+2. You can set the "Epoch Number" with the code:
     ```bash
-    python 1-AB.py
+    Epoch = 150 # The original settings of epoch is 150
     ```
