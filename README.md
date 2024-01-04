@@ -1,4 +1,4 @@
-# :balloon: EEGProgress
+# :balloon: 1. EEGProgress
 
 A fast and lightweight progressive convolutoin architecture for EEG processing and classification.
 
