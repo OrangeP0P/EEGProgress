@@ -1,4 +1,4 @@
-# 📌1. EEGProgress
+# 📌 EEGProgress
 
 Overview: A fast and lightweight progressive convolutoin architecture for EEG processing and classification. 
 
