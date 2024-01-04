@@ -28,8 +28,8 @@
       1. You can select the __"Raw/Permutated EEG Data"__ with the code:
       
          ```bash
-         Current_Datasets = 'a19_SpPe/'  # Permutated data
-         Current_Datasets = 'a20_SpRaw/'  # Raw data
+         Current_Datasets = 'a19_SpRaw/' # Raw data
+         Current_Datasets = 'a20_SpPe/'  # Permutated data
          ```
 
       2. You can set the __"Number of Trainning Epoch"__ with the code:
