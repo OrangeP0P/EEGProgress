@@ -35,7 +35,7 @@ import math
 #         ET[i, j] = math.sqrt(Xe[i]*Xe[i] + Ye[j]*Ye[j])
 # np.save('./ET_R.npy', ET)
 
-EX = 1
+EX = 2
 Seed_ACC = []  # 统计不同种子数时模型的最终准确率
 Net_number = 'EEGProgress'  # 选取网络类型
 CSV_name = str(EX) + '-AB-ACC'  # 设置表格名称 每次开始时设置
@@ -67,7 +67,7 @@ for seed in range(EX, EX + 1):  # 随机五个随机种子数
     tr, va = 9, 1  # 训练集、验证集比例
 
     Basic_folder = 'Datasets_Transfer_Task/'  # 服务器端根目录
-    Current_Datasets = 'a20_SpPe/'  # 数据集路径
+    Current_Datasets = 'a19_SpRaw/'  # 数据集路径
 
     Batch_size_list = [28] * 20  # batch_size
     subject_list = ['aa', 'al', 'av', 'aw', 'ay']  # 用户列表

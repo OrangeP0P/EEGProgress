@@ -6,3 +6,49 @@ Cross:(1)
  Best model number = 139,   1.0
  Best model number = 6,   0.7857142686843872
  Best model number = 113,   0.9285714030265808
+ Best model number = 134,   0.8214285969734192
+ Best model number = 122,   0.8214285969734192
+ Best model number = 66,   0.75
+ Best model number = 21,   0.9285714030265808
+ Best model number = 125,   0.9285714030265808
+ Best model number = 59,   0.7857142686843872
+ Best model number = 99,   0.9285714030265808
+ Best model number = 111,   0.7857142686843872
+ Best model number = 20,   0.8571428656578064
+ Best model number = 129,   0.8571428656578064
+ Best model number = 143,   1.0
+ Best model number = 88,   0.8214285969734192
+ Best model number = 138,   0.9285714030265808
+ Best model number = 10,   0.8571428656578064
+ Best model number = 99,   0.9642857313156128
+ Best model number = 76,   0.9285714030265808
+ Best model number = 103,   0.7142857313156128
+ Cross Aver ACC = 0.8696428537368774
+
+TRANNING OVER!!!
+|Validation AVE ACC = 0.8696428537368774|
+|Tranning time = 0.2729303283161587/hours|
+
+[Compute the ave acc of Validation]
+  Task(1) =1.0
+  Task(2) =0.7857142857142857
+  Task(3) =0.9285714285714286
+  Task(4) =0.8214285714285714
+  Task(5) =0.8214285714285714
+  Task(6) =0.75
+  Task(7) =0.9285714285714286
+  Task(8) =0.9285714285714286
+  Task(9) =0.7857142857142857
+  Task(10) =0.9285714285714286
+  Task(11) =0.7857142857142857
+  Task(12) =0.8571428571428571
+  Task(13) =0.8571428571428571
+  Task(14) =1.0
+  Task(15) =0.8214285714285714
+  Task(16) =0.9285714285714286
+  Task(17) =0.8571428571428571
+  Task(18) =0.9642857142857143
+  Task(19) =0.9285714285714286
+  Task(20) =0.7142857142857143
+ Validation average acc = 0.8696428571428572
+Seed average acc = 0.8696428571428572

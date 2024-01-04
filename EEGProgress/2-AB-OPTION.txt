@@ -1,0 +1,54 @@
+程序简述：PSDAN[调参]【不使用任何loss，测试150epoch的准确率】
+ （1）数据进行横向重排，左右脑数据分开输入网络，电极数55×2
+ （2）程序部署于：30780---------------[Net_Name:]EEGProgress---------------
+---------------[Seed(2)]---------------
+Cross:(1)
+ Best model number = 113,   1.0
+ Best model number = 9,   0.7142857313156128
+ Best model number = 31,   0.8928571343421936
+ Best model number = 133,   0.7857142686843872
+ Best model number = 101,   0.8928571343421936
+ Best model number = 12,   0.6428571343421936
+ Best model number = 148,   0.9285714030265808
+ Best model number = 85,   0.9285714030265808
+ Best model number = 113,   0.7857142686843872
+ Best model number = 92,   0.8571428656578064
+ Best model number = 23,   0.8571428656578064
+ Best model number = 89,   0.8214285969734192
+ Best model number = 146,   0.7857142686843872
+ Best model number = 147,   1.0
+ Best model number = 134,   0.75
+ Best model number = 114,   0.9285714030265808
+ Best model number = 99,   0.75
+ Best model number = 88,   0.9642857313156128
+ Best model number = 56,   0.7857142686843872
+ Best model number = 118,   0.6785714030265808
+ Cross Aver ACC = 0.8374999940395356
+
+TRANNING OVER!!!
+|Validation AVE ACC = 0.8374999940395356|
+|Tranning time = 0.26781798952155644/hours|
+
+[Compute the ave acc of Validation]
+  Task(1) =1.0
+  Task(2) =0.7142857142857143
+  Task(3) =0.8928571428571429
+  Task(4) =0.7857142857142857
+  Task(5) =0.8928571428571429
+  Task(6) =0.6428571428571429
+  Task(7) =0.9285714285714286
+  Task(8) =0.9285714285714286
+  Task(9) =0.7857142857142857
+  Task(10) =0.8571428571428571
+  Task(11) =0.8571428571428571
+  Task(12) =0.8214285714285714
+  Task(13) =0.7857142857142857
+  Task(14) =1.0
+  Task(15) =0.75
+  Task(16) =0.9285714285714286
+  Task(17) =0.75
+  Task(18) =0.9642857142857143
+  Task(19) =0.7857142857142857
+  Task(20) =0.6785714285714286
+ Validation average acc = 0.8375
+Seed average acc = 0.8375
