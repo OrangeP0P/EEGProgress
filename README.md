@@ -41,5 +41,5 @@
 
 🍊 The raw EEG data is permuted using the __empirical topological permutation rule__, integrating the EEG data with numerous topological properties. 
 
-<img src="ReadMe/PermutationRule.png" alt="Permutation Rule" width="300" height="200">
+<img src="ReadMe/PermutationRule.png" alt="Permutation Rule" width="600" height="562">
 
