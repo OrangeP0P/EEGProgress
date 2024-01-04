@@ -8,7 +8,7 @@
 
 🫧 In this study, a progressive convolution CNN architecture named __"EEGProgress"__ is proposed, aiming to efficiently extract the topological spatial information of EEG signals from multi-scale levels (electrode, brain region, hemisphere, global) with superior speed.
 
-## ⚙ How to run
+## 🧰 How to run
 
 🫧 You can directly run the code with __“1-AB.py”__.
 
