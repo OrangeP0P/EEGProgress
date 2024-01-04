@@ -2,7 +2,7 @@
 
 A fast and lightweight progressive convolutoin architecture for EEG processing and classification.
 
-This project is based on a recent publication. You can access the original paper here: [Link: EEGProgress](https://www.sciencedirect.com/science/article/pii/S0010482523013665).
+This project is based on our recent publication. You can access the original paper here: [Link: EEGProgress](https://www.sciencedirect.com/science/article/pii/S0010482523013665).
 
 ![Alt text](ReadMe/EEGProgress.png)
 
