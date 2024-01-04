@@ -1,18 +1,14 @@
 # EEGProgress
 
-A fast and lightweight progressive convolutoin architecture for EEG processing and classification
+A fast and lightweight progressive convolutoin architecture for EEG processing and classification.
 
-## Paper link
-
-This project is based on a recent publication. You can access the original paper here: [EEGProgress](https://www.sciencedirect.com/science/article/pii/S0010482523013665).
+This project is based on a recent publication. You can access the original paper here: [Link: EEGProgress](https://www.sciencedirect.com/science/article/pii/S0010482523013665).
 
 ![Alt text](ReadMe/EEGProgress.png)
 
 # How to run
 
-You can directly run the code with 1-AB.py
-
-This application is designed to run in a PyTorch environment. To execute `1-AB.py`, which is the entry point of the program, follow the steps outlined below.
+You can directly run the code with “1-AB.py”
 
 ## Prerequisites
 
