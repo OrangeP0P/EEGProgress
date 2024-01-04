@@ -1,8 +1,8 @@
 # :balloon: 1. Introduction of "EEGProgress"
 
-A fast and lightweight progressive convolutoin architecture for EEG processing and classification.
+Overview: A fast and lightweight progressive convolutoin architecture for EEG processing and classification. 
 
-This project is based on our recent publication. You can access the original paper here: [Link: EEGProgress](https://www.sciencedirect.com/science/article/pii/S0010482523013665).
+This project is based on our recent publication. You can access the original paper here: [Link: EEGProgress](https://www.sciencedirect.com/science/article/pii/S0010482523013665). In this study, a progressive convolution CNN architecture named EEGProgress is proposed, aiming to efficiently extract the topological spatial information of EEG signals from multi-scale levels (electrode, brain region, hemisphere, global) with superior speed.
 
 ![Alt text](ReadMe/EEGProgress.png)
 
