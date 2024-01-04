@@ -4,7 +4,7 @@
 
 🍊 This project is based on our recent publication. You can access the original paper here: [Link: EEGProgress](https://www.sciencedirect.com/science/article/pii/S0010482523013665).
 
-![Alt text](ReadMe/EEGProgress.png)
+![EEGProgress](ReadMe/EEGProgress.png)
 
 🍊 In this study, a progressive convolution CNN architecture named __"EEGProgress"__ is proposed, aiming to efficiently extract the topological spatial information of EEG signals from multi-scale levels (electrode, brain region, hemisphere, global) with superior speed.
 
@@ -40,3 +40,5 @@
 # 📌 Topological Permutation
 
 🍊 The raw EEG data is permuted using the __empirical topological permutation rule__, integrating the EEG data with numerous topological properties. 
+
+![Alt text](ReadMe/PermutationRule.png)
