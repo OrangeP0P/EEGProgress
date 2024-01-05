@@ -16,9 +16,9 @@
 
 🍊 Before running the application, ensure that you have the following prerequisites installed:
 
-      1. **Python:** The code is tested with Python 3.8. It should be compatible with most Python 3.x versions.
+1. **Python:** The code is tested with Python 3.8. It should be compatible with most Python 3.x versions.
       
-      2. **PyTorch:** This project requires PyTorch. If you haven't installed PyTorch yet, you can find installation instructions on the [official PyTorch website](https://pytorch.org/get-started/locally/).
+2. **PyTorch:** This project requires PyTorch. If you haven't installed PyTorch yet, you can find installation instructions on the [official PyTorch website](https://pytorch.org/get-started/locally/).
 
 
 ### Settings
