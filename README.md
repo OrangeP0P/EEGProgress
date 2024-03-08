@@ -1,4 +1,4 @@
-# 📌EEGProgress
+# 📌EEGProgress (Please Star this project and cite our paper if you use this code)
 
 🍊 __Overview__: A fast and lightweight progressive convolutoin architecture for EEG processing and classification. 
 
