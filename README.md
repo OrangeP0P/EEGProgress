@@ -1,6 +1,6 @@
 # 📌EEGProgress
 
-🍊 __Overview__: A fast and lightweight progressive convolutoin architecture for EEG processing and classification. 
+🍊 __Overview__: A fast and lightweight progressive convolution architecture for EEG processing and classification. 
 
 🍊 This project is based on our recent publication. You can access the original paper here: [Link: EEGProgress](https://www.sciencedirect.com/science/article/pii/S0010482523013665).
 
@@ -32,11 +32,13 @@
          Current_Datasets = 'a20_SpRaw/'  # Raw data
          ```
 
-      2. You can set the __"Number of Trainning Epoch"__ with the code:
+      2. You can set the __"Number of Training Epoch"__ with the code:
           ```bash
-          Epoch = 150 # The original settings of epoch is 150
+          Epoch = 150 # The original setting of the epoch is 150
           ```
     
 # 📌 Topological Permutation
 
 🍊 The raw EEG data is permuted using the __empirical topological permutation rule__, integrating the EEG data with numerous topological properties. 
+
+<img src="ReadMe/PermutationRule.png" alt="Permutation Rule" width="600" height="562">
