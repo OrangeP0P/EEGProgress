@@ -10,7 +10,7 @@
 
 ## 🧰 How to run
 
-🍊 You can directly run the code with __“1-AB.py”__.
+🍊 You can directly run the code with __“test.py”__.
 
 ### 📕 Prerequisites
 
@@ -23,7 +23,7 @@
 
 ### 📕 Settings
 
-🍊 Once you have the environment set up, you can run __"1-AB.py"__ with customized settings:
+🍊 Once you have the environment set up, you can run __"test.py"__ with customized settings:
 
       1. You can select the __"Raw/Permutated EEG Data"__ with the code:
       
